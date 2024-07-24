@@ -20,3 +20,5 @@ creating a RESTful API for CRUD(Create, Retrieve, Update and Delete) operations 
 ![Screenshot (8)](https://github.com/user-attachments/assets/9b0c38e1-c744-4faf-a5c7-a96394c24829)
 
 <h3>Delete:</h3>
+
+![Screenshot (5)](https://github.com/user-attachments/assets/731dd65c-320d-45f1-b288-209efce349f4)
